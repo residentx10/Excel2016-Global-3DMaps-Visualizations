@@ -1,2 +1,2 @@
-# Excel2016_Visualizations
+# Excel2016_3DMaps_Visualizations
 Visualizations and Movies using Excel Maps
